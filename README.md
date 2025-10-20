@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+# 🌐 Project: Projsonal-Vue | PROTOTYPE
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 🧩 Deskripsi Singkat
+Website ini merupakan **project pertama saya** yang dikembangkan untuk melatih kemampuan dalam pengembangan web modern menggunakan **Vue 3**, **Vite**, dan **Tailwind CSS**.  
+Tujuannya adalah membangun website yang **cepat**, **responsif**, dan **mudah dikembangkan** dengan struktur kode yang rapi dan efisien.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## ⚙️ Teknologi yang Digunakan
+| Teknologi | Keterangan |
+|------------|-------------|
+| **Vue 3** | Framework JavaScript progresif untuk membangun UI interaktif |
+| **Vite** | Build tool modern yang ringan dan cepat untuk proyek Vue |
+| **Tailwind CSS** | Utility-first CSS framework untuk styling yang fleksibel dan efisien |
+
+---
+
+## 🏗️ Struktur Proyek (pseudocode)
