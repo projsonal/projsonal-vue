@@ -16,20 +16,9 @@ Tujuannya adalah membangun website yang **cepat**, **responsif**, dan **mudah di
 ---
 
 ## 🏗️ Struktur Proyek (pseudocode)
-project/
-│
-├── index.html # Halaman utama
-├── package.json # Daftar dependencies
-├── vite.config.js # Konfigurasi Vite
-│
-├── src/
-│ ├── main.js # Entry point Vue
-│ ├── App.vue # Root component
-│ ├── assets/ # Folder aset (gambar, ikon)
-│ ├── components/ # Folder komponen Vue
-│ └── style.css # File Tailwind utama
-│
-└── README.md # Dokumentasi proyek
+
+![Struktur Folder](./assets/structure.png)
+
 ---
 
 ## 🚀 Cara Menjalankan Proyek
